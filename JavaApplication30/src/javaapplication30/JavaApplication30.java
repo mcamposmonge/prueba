@@ -19,6 +19,8 @@ public class JavaApplication30 {
         // TODO code application logic here
         System.out.println("hola mundo");
          System.out.println("hola clase");// Carlos
+         
+         Empleado emp = new Empleado();
         
             
     }
